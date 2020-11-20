@@ -4,7 +4,7 @@
 
 Vous devez réaliser l'intégration de oSailing en utilisant `webpack` et `scss`
 
-![osailing](elements/oSailing-haut.png)
+![osailing](shrenshoot.png)
 
 Preview : [partie haute](elements/oSailing-haut.png) - [partie basse](elements/oSailing-bas.png)
 
