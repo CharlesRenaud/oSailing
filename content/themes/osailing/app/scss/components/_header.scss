@@ -1,0 +1,19 @@
+.header {
+    margin-bottom: 3em;
+
+    &__content {
+
+        padding-left: 4em;
+
+        &__title {
+            color: white;
+            font-size: 2.4em;
+            font-weight: 600;
+            padding-bottom: 0.4em;
+            border-bottom: 3px solid white;
+            width: 60%;
+            padding-right: 30px;
+            box-sizing: content-box;
+        }
+    }
+}

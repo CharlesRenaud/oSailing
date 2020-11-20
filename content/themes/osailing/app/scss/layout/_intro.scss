@@ -1,0 +1,10 @@
+.intro {
+    min-height: 100vh;
+    background-image: url('../assets/images/vue.jpg');
+    background-size: cover;
+    background-position: center bottom;
+
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+}
